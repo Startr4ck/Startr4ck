@@ -6,8 +6,8 @@
 
   
 
-* 如果你想要找到我，欢迎光临我的博客 [Strartr4ck's Blog](https://startr4ck.top) 
+* 如果你想要找到我，欢迎光临我的博客 [Strartr4ck's Blog](https://startr4ck.top) Cancel Changes
 
 
-[![Startr4ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Startr4ck)](https://github.com/Startr4ck/github-readme-stats)
+[![Startr4ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Startr4ck)]
 - 🔭 I’m currently working on adsecurity
