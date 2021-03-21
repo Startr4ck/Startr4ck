@@ -7,7 +7,7 @@
 
   
 
-* 如果你想要找到我，欢迎光临我的博客 [Strartr4ck's Blog](https://startr4ck.top)
+* 如果你想要找到我，欢迎光临我的博客 [Startr4ck's Blog](https://startr4ck.top)
 
 
 ![Startr4ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Startr4ck)
