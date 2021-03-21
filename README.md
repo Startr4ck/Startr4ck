@@ -1,16 +1,13 @@
 ### Hi there 👋
 
+* 我是　[Startr4ck](http://startr4ck.top) :blush:
+* 搞安全的，啥都会一点什么都不精通🤔
+* 目前在某甲方划水🤪
 
-Here are some ideas to get you started:
+  
+
+* 如果你想要找到我，欢迎光临我的博客 [Strartr4ck's Blog](https://startr4ck.top) 
+
+
 [![Startr4ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Startr4ck)](https://github.com/Startr4ck/github-readme-stats)
-
-
 - 🔭 I’m currently working on adsecurity
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
