@@ -17,5 +17,4 @@
 
 
 
-* 曾经得闲考过 OSWE  
-https://picsfor.oss-cn-shenzhen.aliyuncs.com/blogs/imgs/20211024175146.png
+* 曾经得闲考过 OSWE, 软考信息安全工程师
