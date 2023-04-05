@@ -12,4 +12,10 @@
 
 ![Startr4ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Startr4ck)
 - 🔭 I’m currently working on adsecurity
- 
+
+
+
+
+
+* 曾经得闲考过 OSWE  
+https://picsfor.oss-cn-shenzhen.aliyuncs.com/blogs/imgs/20211024175146.png
