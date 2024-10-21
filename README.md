@@ -12,10 +12,10 @@
 
 
 ![Startr4ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Startr4ck)
-- 🔭 I’m currently working on ADsecurity
-- ❤ AI LLM WEB3 Security also attracts me 
+- 🔭 I’m currently working on ADsecurity&SDL&WEB
+- ❤ AI LLM WEB3 IOT Security also attracts me 
 
 
 
 
-* 曾得闲考过 OSWE
+* 曾得闲考OSWE&CISSP&CCSP
