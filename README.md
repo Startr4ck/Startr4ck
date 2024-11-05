@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-* 我是　[Startr4ck](https://yinhaoqin.com) :blush:
-* 网络安全，很多方面都只会一点🤔🤔🤔🤔🤔🤔🤔🤔
-* 目前在甲方划水摸鱼🤪
-* 从入行到现在都是菜鸡 :rooster:
+* 我是　[Startr4ck](https://yinhaoqin.com) 😳
+* Cybersecurity enthusiast dabbling in a bit of everything 🤔
+* Currently work in a Smart device manufacturer
+* From day one in this field, I've been a work-in-progress 🐔
 
 
   
 
-* 如果你想要找到我，欢迎光临我的博客 [Startr4ck's Blog](https://yinhaoqin.blog)
+* If you're looking for me, feel free to visit my blog at[Startr4ck's Blog](https://yinhaoqin.blog)
 
 
 ![Startr4ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Startr4ck)
