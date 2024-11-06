@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-* 😳I'm　[Startr4ck](https://yinhaoqin.blog) 
-* 🤩Passionate about contributing my security skills to open-source projects 
-* 🤔Cybersecurity enthusiast dabbling in a bit of everything 
-* 🐔From day one in this field, I've been a work-in-progress 
+* I'm　[Startr4ck](https://yinhaoqin.blog) 😳
+* Passionate about contributing my security skills to open-source projects 
+* Cybersecurity enthusiast dabbling in a bit of everything 
+* From day one in this field, I've been a work-in-progress 
 
 
   
